@@ -4,7 +4,7 @@ import datetime
 from selenium.webdriver.common.keys import Keys
 
 Duration = 0
-Driver_Path = r"C:\Users\Fazil\Automation Drivers\chromedriver.exe"
+Driver_Path = r"C:\Users\{}\Automation Drivers\chromedriver.exe"
 Playlist_URL = r'https://www.youtube.com/playlist?list=PL-osiE80TeTvviVL0pJGX5mZCo7CAvIuf'
 
 options = webdriver.ChromeOptions()
